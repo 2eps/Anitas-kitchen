@@ -1,5 +1,4 @@
-
-.logo-area{
+.logo-area {
   background-image: url(../ip2/assets/backgrounds/landing.jpg);
   color: white;
   padding: 50px;
@@ -7,29 +6,29 @@
   font-size: 18px;
 }
 
-#HH{
+#HH {
   color: black;
   background-color: white;
   text-align: center;
   padding: 50px;
 }
 
-#PT{
-  color:white;
+#PT {
+  color: white;
   background-color: orange;
   text-align: center;
   padding: 50px;
 }
 
-#BF{
-  color:white;
+#BF {
+  color: white;
   background-image: url(../ip2/assets/foodtop/breakfast.jpg);
   text-align: center;
   padding: 100px;
   background-repeat: no-repeat;
 }
 
-#LU{
+#LU {
   color: white;
   background-image: url(../ip2/assets/foodtop/lunch.jpg);
   text-align: center;
@@ -37,7 +36,7 @@
   background-repeat: no-repeat;
 }
 
-#DI{
+#DI {
   color: white;
   background-image: url(../ip2/assets/foodtop/dinner.jpg);
   text-align: center;
@@ -45,32 +44,31 @@
   background-repeat: no-repeat;
 }
 
-.horizlist{
+.horizlist {
   display: block;
   float: left;
   height: 30px;
   width: 290px;
 }
 
-.fast{
+.fast {
   float: left;
   padding: 100px;
   margin-left: 500px;
-  width:100px;
+  width: 100px;
 }
 
-.FF{
+.FF {
   float: right;
   padding: 50px;
-  margin-right:50px;
+  margin-right: 50px;
   text-align: left;
 }
 
-.FF1{
+.FF1 {
   color: orange;
   text-align: left;
   margin-right: 40px;
   padding-left: 200px;
   border-color: orange;
-
 }
