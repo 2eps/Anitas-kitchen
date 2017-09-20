@@ -6,18 +6,39 @@
   font-size: 18px;
 }
 
+.hhlogo {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.hhcol {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 #HH {
   color: black;
   background-color: white;
   text-align: center;
-  padding: 50px;
+  padding: 38px;
+  margin: 0px;
+  padding-right: 0px;
 }
 
 #PT {
   color: white;
   background-color: orange;
   text-align: center;
-  padding: 50px;
+  padding: 38px;
+  margin: 0px;
+  padding-right: 0px;
+}
+
+.hhpt {
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 #BF {
@@ -52,17 +73,22 @@
 }
 
 .fast {
-  float: left;
-  padding: 100px;
-  margin-left: 500px;
-  width: 100px;
+  padding-left: 50px;
+  padding-right: 0px;
+}
+
+.fastf {
+  padding-top: 100px;
+}
+
+.thumbnail {
+  margin-top: 50px;
+  padding: 20px;
 }
 
 .FF {
-  float: right;
-  padding: 50px;
-  margin-right: 50px;
-  text-align: left;
+  padding-left: 50px;
+  margin-top: 60px;
 }
 
 .FF1 {
@@ -71,4 +97,250 @@
   margin-right: 40px;
   padding-left: 200px;
   border-color: orange;
+}
+
+#D1 {
+  margin: 0px;
+  float: left;
+}
+
+#D2 {
+  float: right;
+}
+
+.drink {
+  float: left;
+}
+
+.drrow {
+  margin-top: 40px;
+}
+
+.DR {
+  text-align: right;
+  margin-top: 40px;
+  padding-right: 50px;
+}
+
+.mainp {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.mainr {
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
+}
+
+.pb1 {
+  text-align: center;
+  padding: 0px;
+  background-color: lightgray;
+}
+
+.CB {
+  border-color: grey;
+  border-style: solid;
+  border-width: thin;
+  padding-top: 5px;
+  padding-bottom: 3px;
+}
+
+.col-md-4 {
+  text-align: center;
+  color: #F15B29;
+}
+
+.about-area {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  box-shadow: rgba(83, 42, 86, 0.28) 1px 1px 15px 0.5px;
+  text-align: center;
+}
+
+.col-md-7 {
+  border-right-style: solid;
+  border-right-color: lightgrey;
+  border-right-width: 1px;
+}
+
+.tomato {
+  background-image: url(../ip2/assets/backgrounds/subscribe.jpg);
+  height: 301px;
+  text-align: center;
+  color: #f4f4f4;
+  font-size: 24px;
+  padding: 120px;
+}
+
+#burger {
+  text-align: center;
+  background-image: url(../ip2/assets/backgrounds/foodsBg.jpg);
+  height: 599px;
+  padding: 50px;
+  color: white;
+}
+
+.optionbackground {
+  background-color: white;
+  margin: 5% 5% 5% 5%;
+  text-align: center;
+}
+
+.optionbackground .col-md-3 {
+  background-color: #E3E3E3;
+  color: #AEAEAE;
+  padding: 0;
+  border-right: 1px solid #bbb;
+  border-bottom: 1px solid #bbb;
+}
+
+.optionbackground .active {
+  background-color: white;
+  color: #F15B29;
+  border-bottom: none;
+}
+
+.optionbackground .col-md-3 :hover:not(.active) {
+  background-color: white;
+  cursor: pointer;
+}
+
+.optionbackground h3 {
+  font-weight: bold;
+  margin: 0;
+  padding: 5% 0 5% 0;
+}
+
+.optionbackground p {
+  font-size: 120%;
+  color: #F15B29;
+  padding-top: 5px;
+}
+
+.optionbackground .col-md-4 {
+  padding: 5% 10% 5% 10%;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 0px;
+}
+
+#leftarrow {
+  padding-left: 10px;
+}
+
+#rightarrow {
+  padding-right: 10px;
+}
+
+#chicken {
+  padding: 5px;
+  padding-left: 50px;
+  margin: 0px;
+  padding-right: 5px;
+}
+
+#beef {
+  padding: 5px;
+  padding-left: 5px;
+  margin: 0px;
+  padding-right: 5px;
+}
+
+#pizza {
+  padding: 5px;
+  padding-left: 5px;
+  margin: 0px;
+  padding-right: 50px;
+}
+
+#customers {
+  border-right: 1px solid;
+  border-color: #e8e5e5;
+}
+
+#headcolor {
+  color: #F15B29;
+}
+
+#menucolor {
+  color: #F15B29;
+}
+
+.emailbtn {
+  width: 280px;
+  opacity: 0.3;
+  text-align: left;
+}
+
+.subsbtn {
+  width: 180px;
+  border-color: #F15B29;
+  background-color: #F15B29;
+}
+
+.part7 {
+  background-color: #F15B29;
+  height: 350px;
+  text-align: center;
+  color: white;
+}
+
+.part7 .container {
+  width: 50%;
+  padding: 2% 0 0 0;
+}
+
+.part7 .container h2 {
+  margin-bottom: 2%;
+  font-size: 200%;
+}
+
+.part7 .container h4 {
+  margin-bottom: 3%;
+  font-size: 150%;
+}
+
+#footer {
+  padding-right: 10px;
+}
+
+#part71img {
+  background-image: url(../ip2/assets/footerlogos/facebook.png);
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin: 2px 2px 2px 2px;
+}
+
+#part72img {
+  background-image: url(../ip2/assets/footerlogos/twitter.png);
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin: 2px 2px 2px 2px;
+}
+
+#part73img {
+  background-image: url(../ip2/assets/footerlogos/pinterest.png);
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin: 2px 2px 2px 2px;
+}
+
+.fb {
+  text-align: center;
+  padding: 50px;
+  margin: 2px 2px 2px 2px;
+}
+
+.tw {
+  text-align: center;
+  padding: 50px;
+  margin: 2px 2px 2px 2px;
+}
+
+.pin {
+  text-align: center;
+  padding: 50px;
+  margin: 2px 2px 2px 2px;
 }
